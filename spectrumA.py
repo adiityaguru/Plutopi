@@ -1,7 +1,5 @@
 # spectrumA.py
 # Spectrum Analyzer for ADALM-Pluto using PyQt6 and pyqtgraph.
-# Matches DPG functionality: dynamic real-time updates during sweep.
-# GUI is full-screen; gain is fixed (manual mode, 70 dB) without configuration.
 import sys
 import numpy as np
 import adi
